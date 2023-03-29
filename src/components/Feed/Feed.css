@@ -1,0 +1,16 @@
+.feed-info{
+    margin-left: 15px;;
+}
+.feed-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.feed-bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+text-align: center;
+}
